@@ -16,11 +16,5 @@ auto-gptq
 poppler-utils
 pytesseract
 PyPDF2
-streamlit
-pypdf
-pdf2image
-pytesseract
-pandas
-langchain-groq
 pillow
-transformers
+
